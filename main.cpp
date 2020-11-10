@@ -10,7 +10,7 @@ void printData(DatabaseObject* pd)
 {
 	pd->display();
 }
-//test Josh
+//test Joshsasa
 int main()
 {
 	DatabaseObject* d[3];  // an array of 3 pointers to DatabaseObject's
